@@ -41,13 +41,13 @@ uvicorn main:app --reload
 Runs on: `http://localhost:8000`
 
 ## Frontend Architecture 
-![Frontend](./frontend/public/Frontend.png)
+![Frontend](/frontend/public/Frontend.png)
 
 ## Backend Architecture 
-![Backend](./frontend/public/Backend.png)
+![Backend](/frontend/public/Backend.png)
 
 ## Full Stack Architecture 
-![Backend](./frontend/public/Fullstack.png)
+![Backend](/frontend/public/Fullstack.png)
 
 ## Frontend Page Design
-![Frontend Page Design](./frontend/public/FrontendDesign.png)
+![Frontend Page Design](/frontend/public/FrontendDesign.png)
